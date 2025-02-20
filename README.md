@@ -1,5 +1,12 @@
-# tic-tac-toe-board
+# tic-tac-toe-board art
 creating a tic tac toe board 
+
+This might look uncool looking directlty at the readme file.
+open readme.md file
+ ---------------------------------------------------------
+|  Please click these code or raw button for better look  |
+ ---------------------------------------------------------
+
 
 
 def drawBoard(board):
